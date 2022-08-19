@@ -110,8 +110,10 @@ html {
       grid-gap: 15px;
     }
   }
-  .drgHlZ h3 {
+  h3 {
     color: #ffffff;
+  }
+  .drgHlZ h3 {
     font-size: 24px;
     margin-bottom: 50px;
   }
